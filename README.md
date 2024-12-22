@@ -1,10 +1,10 @@
-#WorkX#
+#WorkX
 WorkX es un conjunto de herramientas utiles de trabajo al estilo Office365, Por ahora solo cuenta con una terminal en version educativa.
 
-##CommandX##
+##CommandX
 Es una parte del conjunto WorkX, Es una terminal que tiene dos partes:
 
-###Education Version###:
+###Education Version:
 Es una version de CommandX, que se pueden hacer sumas, restas, multiplicacion, division, potencia, raiz cuadrada, A continuacion todos sus comandos:
 
 - **cx_wlcm**: Muestra un saludo de bienvenida.
